@@ -16,7 +16,7 @@
       "no-unreachable":"error",
       "@typescript-eslint/consistent-type-definitions": ["error", "type"]
     },
-  ,this is fg
+    
     "env": {
       "browser": true,
       "es2021": true,
