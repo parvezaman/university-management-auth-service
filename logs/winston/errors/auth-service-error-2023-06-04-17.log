@@ -1,0 +1,27 @@
+{
+  level: 'error',
+  label: 'Auth Service',
+  timestamp: '2023-06-04T11:54:58.210Z'
+}
+{
+  level: 'error',
+  label: 'Auth Service',
+  timestamp: '2023-06-04T11:55:04.221Z'
+}
+{
+  level: 'error',
+  message: 'something went wrong The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.',
+  stack: 'MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.\n' +
+    '    at _createMongoClient (D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:805:11)\n' +
+    '    at NativeConnection.openUri (D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\node_modules\\mongoose\\lib\\connection.js:742:29)\n' +
+    '    at Mongoose.connect (D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\node_modules\\mongoose\\lib\\index.js:406:15)\n' +
+    '    at D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\src\\server.ts:8:20\n' +
+    '    at Generator.next (<anonymous>)\n' +
+    '    at D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\src\\server.ts:8:71\n' +
+    '    at new Promise (<anonymous>)\n' +
+    '    at __awaiter (D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\src\\server.ts:4:12)\n' +
+    '    at startServer (D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\src\\server.ts:20:12)\n' +
+    '    at Object.<anonymous> (D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\src\\server.ts:19:1)',
+  label: 'Auth Service',
+  timestamp: '2023-06-04T11:56:01.124Z'
+}
