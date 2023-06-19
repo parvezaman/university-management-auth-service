@@ -1,0 +1,12 @@
+{
+  message: 'database conntected successfully',
+  level: 'info',
+  label: 'Auth Service',
+  timestamp: '2023-06-19T03:22:45.508Z'
+}
+{
+  message: 'app is listening on port 5000',
+  level: 'info',
+  label: 'Auth Service',
+  timestamp: '2023-06-19T03:22:45.518Z'
+}

@@ -2,95 +2,119 @@
   message: 'database conntected successfully',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:41:39.553Z'
+  timestamp: '2023-06-16T16:18:22.728Z'
 }
 {
   message: 'app is listening on port 5000',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:41:39.562Z'
+  timestamp: '2023-06-16T16:18:22.742Z'
 }
 {
   message: 'database conntected successfully',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:43:10.679Z'
+  timestamp: '2023-06-16T16:19:49.141Z'
 }
 {
   message: 'app is listening on port 5000',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:43:10.687Z'
+  timestamp: '2023-06-16T16:19:49.149Z'
 }
 {
   message: 'database conntected successfully',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:43:39.305Z'
+  timestamp: '2023-06-16T16:21:39.766Z'
 }
 {
   message: 'app is listening on port 5000',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:43:39.314Z'
+  timestamp: '2023-06-16T16:21:39.775Z'
 }
 {
   message: 'database conntected successfully',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:44:47.703Z'
+  timestamp: '2023-06-16T16:21:57.211Z'
 }
 {
   message: 'app is listening on port 5000',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:44:47.715Z'
+  timestamp: '2023-06-16T16:21:57.219Z'
 }
 {
   message: 'database conntected successfully',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:45:46.634Z'
+  timestamp: '2023-06-16T16:25:01.637Z'
 }
 {
   message: 'app is listening on port 5000',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:45:46.642Z'
+  timestamp: '2023-06-16T16:25:01.646Z'
 }
 {
   message: 'database conntected successfully',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:48:06.311Z'
+  timestamp: '2023-06-16T16:26:36.772Z'
 }
 {
   message: 'app is listening on port 5000',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:48:06.319Z'
+  timestamp: '2023-06-16T16:26:36.780Z'
 }
 {
   message: 'database conntected successfully',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:48:21.586Z'
+  timestamp: '2023-06-16T16:27:02.242Z'
 }
 {
   message: 'app is listening on port 5000',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:48:21.596Z'
+  timestamp: '2023-06-16T16:27:02.251Z'
 }
 {
   message: 'database conntected successfully',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:49:24.542Z'
+  timestamp: '2023-06-16T16:27:25.171Z'
 }
 {
   message: 'app is listening on port 5000',
   level: 'info',
   label: 'Auth Service',
-  timestamp: '2023-06-04T13:49:24.550Z'
+  timestamp: '2023-06-16T16:27:25.181Z'
+}
+{
+  message: 'database conntected successfully',
+  level: 'info',
+  label: 'Auth Service',
+  timestamp: '2023-06-16T16:28:20.596Z'
+}
+{
+  message: 'app is listening on port 5000',
+  level: 'info',
+  label: 'Auth Service',
+  timestamp: '2023-06-16T16:28:20.604Z'
+}
+{
+  message: 'database conntected successfully',
+  level: 'info',
+  label: 'Auth Service',
+  timestamp: '2023-06-16T16:28:29.879Z'
+}
+{
+  message: 'app is listening on port 5000',
+  level: 'info',
+  label: 'Auth Service',
+  timestamp: '2023-06-16T16:28:29.889Z'
 }

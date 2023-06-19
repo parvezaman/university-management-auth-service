@@ -6,26 +6,6 @@
     "auditLog": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\.05638372e425b2c7ba0df10b90769e74df596861-audit.json",
     "files": [
         {
-            "date": 1685879669166,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-04-17.log",
-            "hash": "5bfaa75f2d5c9ac8fd37a43a46da433f531644951f3fc25be428a3ee854bd693"
-        },
-        {
-            "date": 1685886098354,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-04-19.log",
-            "hash": "208be6e60cf2356fb45d4c452b6a63500c316a0a6a4a80a8dff71115270b415b"
-        },
-        {
-            "date": 1685935066996,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-05-09.log",
-            "hash": "e2c3402841eabafe59fe25c0015a94010924bd48aab420b3a5202ff61c78ea8e"
-        },
-        {
-            "date": 1685941313396,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-05-11.log",
-            "hash": "ae95bf5ff437c9b2d9c5a9e489140cf2e7c89306a16524c67f7e92e810e8361a"
-        },
-        {
             "date": 1686181385124,
             "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-08-05.log",
             "hash": "24dc1e13cca5406e47894e4db1ffe1b3c8ff3c71d5d9b9d35a66f22e23aeac83"
@@ -59,6 +39,41 @@
             "date": 1686532136476,
             "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-12-07.log",
             "hash": "b7afa9cce3967e2c1a8c57407b887bf3c3cc72b136b4fb9af60fc47a4ded8fcf"
+        },
+        {
+            "date": 1686623377809,
+            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-13-08.log",
+            "hash": "a1721028e571b641a4b4d1478d5fa472b4e3a860eef9da327e1d64303b301bc4"
+        },
+        {
+            "date": 1686625433552,
+            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-13-09.log",
+            "hash": "08ad4d91aad653980023df9a16d3f30054fc5ec43a02c5da0294b704821be489"
+        },
+        {
+            "date": 1686633990420,
+            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-13-11.log",
+            "hash": "d1cf5754427b153aa68cf74514433d5527f8e36d45badd152bef54b3af117db5"
+        },
+        {
+            "date": 1686928010400,
+            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-16-21.log",
+            "hash": "c38bcf9dd99820f9c96a6faad5b87ad866c30ea85c77825ea98ceb3db208f948"
+        },
+        {
+            "date": 1686932260311,
+            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-16-22.log",
+            "hash": "76ab02634df6686fe62bb81906ac7d08eb8acd082e4279a42cdf3df3c83d118f"
+        },
+        {
+            "date": 1687144963308,
+            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-19-09.log",
+            "hash": "b5bccf7c52e2be8c7a9df9449480f35f683904bd7e9e6b3ce49bf5ff8561e552"
+        },
+        {
+            "date": 1687190754995,
+            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-19-22.log",
+            "hash": "0a0d9b17e50d8b71768e60caf40e9b8626ab6ada86470a788b552e1fc54aa23f"
         }
     ],
     "hashType": "sha256"
