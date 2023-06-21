@@ -1,80 +1,80 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\.a8b5be7251031009aa70404b564811eabe73f465-audit.json",
+  "files": [
+    {
+      "date": 1686181385115,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-08-05.log",
+      "hash": "5d0860a91b49127712a7b8757736f6a8f8adbc42062b0273fbbf8a3c4d1b457b"
     },
-    "auditLog": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\.a8b5be7251031009aa70404b564811eabe73f465-audit.json",
-    "files": [
-        {
-            "date": 1686181385115,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-08-05.log",
-            "hash": "5d0860a91b49127712a7b8757736f6a8f8adbc42062b0273fbbf8a3c4d1b457b"
-        },
-        {
-            "date": 1686182494171,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-08-06.log",
-            "hash": "9368aa6b2144fa70e93a1f1a64f58cfe22b70de00eea68f54773eaf182dd038a"
-        },
-        {
-            "date": 1686192486934,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-08-08.log",
-            "hash": "4497f0e59221d70e558a59994b21022fa9e152a778357e44d3f515243c3adee9"
-        },
-        {
-            "date": 1686201730200,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-08-11.log",
-            "hash": "7b7d39ac364602c0a76c1386f5805f82a5deafe66c7d6bf94ad228eb2735158d"
-        },
-        {
-            "date": 1686526601633,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-12-05.log",
-            "hash": "e5775241cbe61aaf4dfb8d6afa33bde918baacf3bedf2d1b7b7d464aad972728"
-        },
-        {
-            "date": 1686528527657,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-12-06.log",
-            "hash": "5c0d505568d480601b016aa82265fbbf2f0990a0dd84290ef80586eec510a4c3"
-        },
-        {
-            "date": 1686532136472,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-12-07.log",
-            "hash": "6a1ceeb43ba12972dacf3d0d1a443acd78e3be63a055f28c452306ee6e79a8ab"
-        },
-        {
-            "date": 1686623377805,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-13-08.log",
-            "hash": "261c7dd3255ecd518785d516522c1bf9e3e28a9d742fa87c7a1b5790590c49c3"
-        },
-        {
-            "date": 1686625433548,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-13-09.log",
-            "hash": "f5925dc82d95b00bcf381d4e0bcf37f18ae230c357d5e66a895e3a3f6557b94c"
-        },
-        {
-            "date": 1686633990410,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-13-11.log",
-            "hash": "d7e69162e79369ba94383ffc13904a500d734370854da792da2fc2f57d6b3e8f"
-        },
-        {
-            "date": 1686928010389,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-16-21.log",
-            "hash": "b22e6dcedc7d42e9690ddc81064dd61097b58ad4526232fd76c152fb2bbe85b5"
-        },
-        {
-            "date": 1686932260306,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-16-22.log",
-            "hash": "e3e08f9c9f75321b7be164a18ac0fcec767d0acaa3eb41f559486dbeb99405cd"
-        },
-        {
-            "date": 1687144963296,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-19-09.log",
-            "hash": "58a945a81460a12879fcac6e2ee2b2964bafd5e0638e6863108e11b229bcc5d4"
-        },
-        {
-            "date": 1687190754985,
-            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-19-22.log",
-            "hash": "08d022301bb72c5e6c522543c060cbf7e141d99803358c9a1fc44656fb4083a7"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686182494171,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-08-06.log",
+      "hash": "9368aa6b2144fa70e93a1f1a64f58cfe22b70de00eea68f54773eaf182dd038a"
+    },
+    {
+      "date": 1686192486934,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-08-08.log",
+      "hash": "4497f0e59221d70e558a59994b21022fa9e152a778357e44d3f515243c3adee9"
+    },
+    {
+      "date": 1686201730200,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-08-11.log",
+      "hash": "7b7d39ac364602c0a76c1386f5805f82a5deafe66c7d6bf94ad228eb2735158d"
+    },
+    {
+      "date": 1686526601633,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-12-05.log",
+      "hash": "e5775241cbe61aaf4dfb8d6afa33bde918baacf3bedf2d1b7b7d464aad972728"
+    },
+    {
+      "date": 1686528527657,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-12-06.log",
+      "hash": "5c0d505568d480601b016aa82265fbbf2f0990a0dd84290ef80586eec510a4c3"
+    },
+    {
+      "date": 1686532136472,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-12-07.log",
+      "hash": "6a1ceeb43ba12972dacf3d0d1a443acd78e3be63a055f28c452306ee6e79a8ab"
+    },
+    {
+      "date": 1686623377805,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-13-08.log",
+      "hash": "261c7dd3255ecd518785d516522c1bf9e3e28a9d742fa87c7a1b5790590c49c3"
+    },
+    {
+      "date": 1686625433548,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-13-09.log",
+      "hash": "f5925dc82d95b00bcf381d4e0bcf37f18ae230c357d5e66a895e3a3f6557b94c"
+    },
+    {
+      "date": 1686633990410,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-13-11.log",
+      "hash": "d7e69162e79369ba94383ffc13904a500d734370854da792da2fc2f57d6b3e8f"
+    },
+    {
+      "date": 1686928010389,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-16-21.log",
+      "hash": "b22e6dcedc7d42e9690ddc81064dd61097b58ad4526232fd76c152fb2bbe85b5"
+    },
+    {
+      "date": 1686932260306,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-16-22.log",
+      "hash": "e3e08f9c9f75321b7be164a18ac0fcec767d0acaa3eb41f559486dbeb99405cd"
+    },
+    {
+      "date": 1687144963296,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-19-09.log",
+      "hash": "58a945a81460a12879fcac6e2ee2b2964bafd5e0638e6863108e11b229bcc5d4"
+    },
+    {
+      "date": 1687190754985,
+      "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\successes\\auth-service-success-2023-06-19-22.log",
+      "hash": "08d022301bb72c5e6c522543c060cbf7e141d99803358c9a1fc44656fb4083a7"
+    }
+  ],
+  "hashType": "sha256"
 }
