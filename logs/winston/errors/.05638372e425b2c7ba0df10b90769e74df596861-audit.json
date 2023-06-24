@@ -79,6 +79,16 @@
             "date": 1687609009841,
             "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-24-18.log",
             "hash": "20a6f3a57c7a8ce1514efe97abd1a894d7f418bf5ce6f9a58a5a51680dd1ed28"
+        },
+        {
+            "date": 1687620219831,
+            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-24-21.log",
+            "hash": "c8c4b9d7d1718eb17a4f95834336ddc4759a24ea7a821fd978d1ed60f35c89bc"
+        },
+        {
+            "date": 1687622929203,
+            "name": "D:\\Learning\\pheronext\\mission-3\\university-management-auth-service\\logs\\winston\\errors\\auth-service-error-2023-06-24-22.log",
+            "hash": "6ff6af7936931852745949be635fd15aeea751e095d39fb7327da4bc1e9aa8cd"
         }
     ],
     "hashType": "sha256"
