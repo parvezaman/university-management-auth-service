@@ -1,12 +1,12 @@
-import { NextFunction, Request, RequestHandler, Response } from 'express';
-import catchAsync from '../../../shared/catchAsync';
-import { UserService } from './user.service';
-import sendResponse from '../../../shared/sendResponse';
+import { Request, RequestHandler, Response } from 'express';
 import httpStatus from 'http-status';
+import catchAsync from '../../../shared/catchAsync';
+import sendResponse from '../../../shared/sendResponse';
+import { UserService } from './user.service';
 // import { z } from 'zod'
 
 const createUser: RequestHandler = catchAsync(
-  async (req: Request, res: Response, next: NextFunction) => {
+  async (req: Request, res: Response) => {
     const { user } = req.body;
     const result = await UserService.createUser(user);
 
@@ -22,8 +22,6 @@ const createUser: RequestHandler = catchAsync(
       message: 'succeeded to create user',
       data: result,
     });
-
-    next();
   }
 );
 

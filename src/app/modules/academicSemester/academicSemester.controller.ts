@@ -35,52 +35,73 @@ const createAcademicSemester = catchAsync(
   }
 );
 
-const getAllSemesters = catchAsync(
-  async (req: Request, res: Response, next: NextFunction) => {
-    // const paginationOptions = {
-    //   page: Number(req.query.page),
-    //   limit: Number(req.query.limit),
-    //   sortBy: req.query.sortBy,
-    //   sortOrder: req.query.sortOrder,
-    // };
+const getAllSemesters = catchAsync(async (req: Request, res: Response) => {
+  // const paginationOptions = {
+  //   page: Number(req.query.page),
+  //   limit: Number(req.query.limit),
+  //   sortBy: req.query.sortBy,
+  //   sortOrder: req.query.sortOrder,
+  // };
 
-    const paginationOptions = pick(req.query, paginationFields);
-    const filters = pick(req.query, academicSemesterFilterableFields);
+  const paginationOptions = pick(req.query, paginationFields);
+  const filters = pick(req.query, academicSemesterFilterableFields);
 
-    const result = await AcademicSemesterService.getAllSemesters(
-      filters as IAcademicSemesterFilters,
-      paginationOptions
-    );
+  const result = await AcademicSemesterService.getAllSemesters(
+    filters as IAcademicSemesterFilters,
+    paginationOptions
+  );
 
-    sendResponse<IAcademicSemester[]>(res, {
-      statusCode: httpStatus.OK,
-      success: true,
-      message: 'succeeded to retrieve all academic semesters',
-      meta: result.meta,
-      data: result.data,
-    });
+  sendResponse<IAcademicSemester[]>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'succeeded to retrieve all academic semesters',
+    meta: result.meta,
+    data: result.data,
+  });
+});
+const getSingleSemester = catchAsync(async (req: Request, res: Response) => {
+  const id = req.params.id;
 
-    next();
-  }
-);
-const getSingleSemester = catchAsync(
-  async (req: Request, res: Response, next: NextFunction) => {
-    const id = req.params.id;
+  const result = await AcademicSemesterService.getSingleSemester(id);
 
-    const result = await AcademicSemesterService.getSingleSemester(id);
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'succeeded to retrieve all academic semesters',
+    data: result,
+  });
+});
 
-    sendResponse<IAcademicSemester>(res, {
-      statusCode: httpStatus.OK,
-      success: true,
-      message: 'succeeded to retrieve all academic semesters',
-      data: result,
-    });
+const updateSemester = catchAsync(async (req: Request, res: Response) => {
+  const id = req.params.id;
+  const updatedBody = req.body;
 
-    next();
-  }
-);
+  const result = await AcademicSemesterService.updateSemester(id, updatedBody);
+
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'succeeded to update academic semesters',
+    data: result,
+  });
+});
+
+const deleteSemester = catchAsync(async (req: Request, res: Response) => {
+  const id = req.params.id;
+
+  const result = await AcademicSemesterService.deleteSemester(id);
+
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'succeeded to delete academic semesters',
+    data: result,
+  });
+});
 export const AcademicSemesterController = {
   createAcademicSemester,
   getAllSemesters,
   getSingleSemester,
+  updateSemester,
+  deleteSemester,
 };
