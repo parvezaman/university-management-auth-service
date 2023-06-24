@@ -17,7 +17,7 @@ app.use(express.urlencoded({ extended: true }));
 // app.use('/api/v1/academic-semesters', AcademicSemesterRoutes);
 
 // Optimizing the imports
-app.use('/api/v1/', router);
+app.use('/api/v1', router);
 
 // custom error class
 
